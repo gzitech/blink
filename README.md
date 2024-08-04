@@ -1,12 +1,12 @@
 # Blink STM32F407VGT6
 
-## Arm GNU Toolchain
+## Toolchain
 
 [Arm GNU Toolchain](https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads)
 
-## STM32CubeProgrammer
-
 [STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html)
+
+## Action
 
 Add to CMakeLists.txt
 
