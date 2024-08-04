@@ -14,6 +14,8 @@
 
 [ninja](https://github.com/ninja-build/ninja/releases)
 
+[STM32CubeCLT](https://www.st.com/en/development-tools/stm32cubeclt.html)
+
 ## Action
 
 Add to CMakeLists.txt
