@@ -3,5 +3,7 @@
 
 /build/
 
+.mxproject
+
 *.bash
 *.ioc
