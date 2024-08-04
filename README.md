@@ -2,7 +2,11 @@
 
 ## Toolchain
 
+[VS Code](https://code.visualstudio.com/)
+
 [Arm GNU Toolchain](https://developer.arm.com/downloads/-/arm-gnu-toolchain-downloads)
+
+[STM32Cube initialization code generator](https://www.st.com/en/development-tools/stm32cubemx.html)
 
 [STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html)
 
