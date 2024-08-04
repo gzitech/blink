@@ -10,6 +10,10 @@
 
 [STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html)
 
+[cmake](https://cmake.org/download/)
+
+[ninja](https://github.com/ninja-build/ninja/releases)
+
 ## Action
 
 Add to CMakeLists.txt
